@@ -4,7 +4,13 @@ public class MathTester {
 
         String firstWord, secondWord;
         int firstnumber, secondnumber,total;
-        
+
+        firstWord = "dog";
+        secondWord= "house";
+
+        firstnumber= 5;
+        secondnumber= 10;
+        total=firstnumber+secondnumber;
 
 
 
